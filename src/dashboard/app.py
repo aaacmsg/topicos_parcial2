@@ -36,7 +36,7 @@ st.sidebar.caption("**Actualizacion:** mensual / trimestral segun indicador")
 if seleccion == "Acerca de":
     st.header("Acerca de este Dashboard")
     st.markdown("""
-    **Proyecto academico** — Gestion de la Informacion, I Semestre 2026
+    **Proyecto academico** — Topicos Especiales, I Semestre 2026
     Universidad Tecnologica de Panama, Facultad de Ingenieria de Sistemas Computacionales.
 
     **Tema 2:** Dashboard de Indicadores Economicos de Panama con IA.
@@ -66,14 +66,9 @@ if seleccion == "Acerca de":
     ---
 
     **Grupo 2 — 1GS242**
-    | Integrante | Cedula |
-    |---|---|
-    | Cesar Santiago | 8-1007-1423 |
-    | Jean Suarez | 8-1015-1661 |
-    | Diego Vina | 8-1019-793 |
-    | Simon Espino | 8-1014-1255 |
+    Cesar Santiago, Jean Suarez, Diego Vina, Simon Espino
 
-    **Asignatura:** Topicos Especiales de Gestion de la Informacion
+    **Asignatura:** Topicos Especiales
     **Profesor:** Reinel Aguirre
 
     **Repositorio:** [github.com/aaacmsg/topicos_parcial2](https://github.com/aaacmsg/topicos_parcial2)
@@ -83,6 +78,6 @@ elif seleccion:
 
 st.sidebar.divider()
 st.sidebar.caption("**Grupo 2 — 1GS242**")
-st.sidebar.caption("Cesar Santiago | Jean Suarez")
-st.sidebar.caption("Diego Vina | Simon Espino")
+st.sidebar.caption("Cesar Santiago, Jean Suarez")
+st.sidebar.caption("Diego Vina, Simon Espino")
 st.sidebar.caption("[GitHub](https://github.com/aaacmsg/topicos_parcial2)")

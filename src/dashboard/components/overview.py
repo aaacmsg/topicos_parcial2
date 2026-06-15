@@ -234,7 +234,7 @@ def mostrar(datasets):
     with col2:
         st.markdown("""
         **Grupo 2 — 1GS242**
-        Cesar Santiago | Jean Suarez | Diego Vina | Simon Espino
-        Topicos Especiales de Gestion de la Informacion — Prof. Reinel Aguirre
+        Cesar Santiago, Jean Suarez, Diego Vina, Simon Espino
+        Topicos Especiales — Prof. Reinel Aguirre
         [github.com/aaacmsg/topicos_parcial2](https://github.com/aaacmsg/topicos_parcial2)
         """)
