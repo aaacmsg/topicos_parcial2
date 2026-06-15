@@ -1,0 +1,546 @@
+================================================================================
+INVENTARIO DE DATOS ECONÓMICOS - CKAN PANAMÁ (datosabiertos.gob.pa)
+Generado: 2026-06-14 20:45
+Total datasets relevantes encontrados: 177
+================================================================================
+
+
+──────────────────────────────────────────────────────────────────────
+ORGANIZACIÓN: Autoridad Nacional de los Servicios Públicos   (6 datasets)
+──────────────────────────────────────────────────────────────────────
+#    Dataset                                                 Periodo         Actualizado     Formatos            
+──── ─────────────────────────────────────────────────────── ─────────────── ─────────────── ────────────────────
+1    ASEP-Registro Transparente de Reportes de Consultorías  No especificada 2026-03-16      XLSX, PDF, CSV      
+2    ASEP Informe de viáticos y transporte del país consoli  No especificada 2017-07-31      XLSX, PDF, CSV      
+3    ASEP, Actos Públicos Relativos a Contrataciones Consol  Mensual         2018-10-05      XLSX, PDF, CSV      
+4    ASEP - Ejecución Presupuestaria de Ingresos de Enero a  No especificada 2021-10-27      XLSX, CSV, PDF      
+5    ASEP, Nombramientos en la institución consolidados de   No especificada 2017-09-27      XLSX, PDF, CSV      
+6    ASEP,  Nombramientos en la institución consolidados de  No especificada 2018-12-28      XLSX, PDF, CSV      
+
+──────────────────────────────────────────────────────────────────────
+ORGANIZACIÓN: Autoridad de Pasaportes de Panamá  (5 datasets)
+──────────────────────────────────────────────────────────────────────
+#    Dataset                                                 Periodo         Actualizado     Formatos            
+──── ─────────────────────────────────────────────────────── ─────────────── ─────────────── ────────────────────
+1    APAP-Gastos de Representación 2024                      No especificada 2025-01-18      XLSX, CSV, PDF      
+2    APAP - Gastos de Representación 2023                    No especificada 2024-03-13      PDF, XLSX, CSV      
+3    APAP - Gastos de Representación 2019                    No especificada 2020-01-06      CSV, PDF, XLSX      
+4    APAP - Gastos de Representación 2021                    No especificada 2021-01-08      PDF, XLSX, CSV      
+5    APAP - Gastos de Representación 2020                    No especificada 2020-07-28      PDF, XLSX, CSV      
+
+──────────────────────────────────────────────────────────────────────
+ORGANIZACIÓN: Autoridad de Protección al Consumidor y Defensa de la Competencia  (5 datasets)
+──────────────────────────────────────────────────────────────────────
+#    Dataset                                                 Periodo         Actualizado     Formatos            
+──── ─────────────────────────────────────────────────────── ─────────────── ─────────────── ────────────────────
+1    ACODECO - Actos Públicos Relativos a Contrataciones Pu  No especificada 2025-06-09      CSV, PDF, XLSX      
+2    ACODECO - Actos Públicos Relativos a Contrataciones Pú  No especificada 2020-02-12      CSV, PDF, XLSX      
+3    ACODECO - Actos Publicos Relativos a Contrataciones Pu  No especificada 2024-10-11      CSV, PDF, XLSX      
+4    ACODECO - Actos Públicos Relativos a Contrataciones Pú  No especificada 2022-03-11      CSV, PDF, XLSX      
+5    ACODECO - Actos Públicos Relativos a Contrataciones Pú  No especificada 2024-01-16      CSV, PDF, XLSX      
+
+──────────────────────────────────────────────────────────────────────
+ORGANIZACIÓN: Caja de Seguro Social  (20 datasets)
+──────────────────────────────────────────────────────────────────────
+#    Dataset                                                 Periodo         Actualizado     Formatos            
+──── ─────────────────────────────────────────────────────── ─────────────── ─────────────── ────────────────────
+1    CSS – Investigación de empresas y salarios omitidos –   No especificada 2022-01-24      XLSX, PDF, CSV      
+2    CSS – Investigación de empresas y salarios omitidos –   No especificada 2022-01-24      XLSX, PDF, CSV      
+3    CSS – Inscripciones de Empresas y monto de salarios de  No especificada 2022-01-24      XLSX, PDF, CSV      
+4    CSS – Inscripciones Empresas y monto salarios de empre  No especificada 2022-01-24      XLSX, PDF, CSV      
+5    CSS – Investigación de Empresas y Salario Omitidos de   No especificada 2022-09-01      XLSX, PDF, CSV      
+6    CSS – Inscripción de Empresas con sus salarios de las   No especificada 2022-09-01      XLSX, PDF, CSV      
+7    CSS – Depto Inscripción - Coord. Adm. a nivel Nacional  No especificada 2023-12-04      XLSX, PDF, CSV      
+8    CSS – Depto. Investigación Ag Adm de Coclé-Pmá Oeste,   No especificada 2023-05-30      XLSX, PDF, CSV      
+9    CSS – Depto. Investigación - Agencias Administrativas   No especificada 2024-04-17      XLSX, PDF, CSV      
+10   CSS – Depto. Investigación - Agencias Administrativas   No especificada 2024-11-15      XLSX, PDF, CSV      
+11   CSS – Depto Investigación Ag. Adm. a nivel nacional -   No especificada 2023-12-04      XLSX, PDF, CSV      
+12   CSS – Depto. Investigación - Agencias Administrativas   No especificada 2024-09-17      XLSX, PDF, CSV      
+13   CSS – Depto. Inscripción - Coordinación Administrativa  No especificada 2024-04-17      XLSX, PDF, CSV      
+14   CSS – Depto. Inscripción - Coord. Adm Coclé-Panamá Oes  No especificada 2023-05-30      XLSX, PDF, CSV      
+15   CSS – Depto. Inscripción - Coordinación Administrativa  No especificada 2024-11-15      XLSX, PDF, CSV      
+16   CSS – Depto. Inscripción - Coordinación Administrativa  No especificada 2024-09-17      XLSX, PDF, CSV      
+17   CSS – Depto. Investigación Agencias Administrativas a   No especificada 2024-01-26      XLSX, PDF, CSV      
+18   CSS – Depto. Inscripción a nivel nacional - IV Trim 20  No especificada 2024-01-26      XLSX, PDF, CSV      
+19   CSS – Depto. Investigación - Agencias Administrativas   No especificada 2025-05-20      XLSX, PDF, CSV      
+20   CSS – Depto Inscripción - Agencias Administrativas a n  No especificada 2025-05-20      XLSX, PDF, CSV      
+
+──────────────────────────────────────────────────────────────────────
+ORGANIZACIÓN: Contraloria General de la República  (6 datasets)
+──────────────────────────────────────────────────────────────────────
+#    Dataset                                                 Periodo         Actualizado     Formatos            
+──── ─────────────────────────────────────────────────────── ─────────────── ─────────────── ────────────────────
+1    INEC - PIB trimestral 2018 a 2024 y primer trimestre 2  Trimestral      2025-06-27      XLSX, CSV, PDF      
+2    INEC - Valor CIF de las importaciones de bienes acumul  No especificada 2025-08-29      XLS, CSV, PDF       
+3    CGR - Ejecución Presupuestaria 2026                     No especificada 2026-05-19      PDF, XLSX, CSV      
+4    CGR - Ejecución Presupuestaria 2023                     No especificada 2024-04-09      PDF, XLSX, CSV      
+5    CGR - Ejecución Presupuestaria 2025                     No especificada 2026-01-15      PDF, XLSX, CSV      
+6    CGR - Ejecución Presupuestaria 2024                     No especificada 2025-01-21      PDF, XLSX, CSV      
+
+──────────────────────────────────────────────────────────────────────
+ORGANIZACIÓN: Fiscalía General de Cuentas  (1 datasets)
+──────────────────────────────────────────────────────────────────────
+#    Dataset                                                 Periodo         Actualizado     Formatos            
+──── ─────────────────────────────────────────────────────── ─────────────── ─────────────── ────────────────────
+1    FGC - Ejecución Presupuestaría 2022                     No especificada 2022-11-07      XLSX, PDF, CSV      
+
+──────────────────────────────────────────────────────────────────────
+ORGANIZACIÓN: Instituto Nacional de Estadística y Censo  (108 datasets)
+──────────────────────────────────────────────────────────────────────
+#    Dataset                                                 Periodo         Actualizado     Formatos            
+──── ─────────────────────────────────────────────────────── ─────────────── ─────────────── ────────────────────
+1    INEC - Producto Interno Bruto a precios de comprador e  Anual           2026-03-27      XLSX, CSV, PDF      
+2    INEC - Producto Interno Bruto a precios de comprador e  Anual           2026-03-27      XLSX, CSV, PDF      
+3    INEC - Producto interno bruto trimestral en la Repúbli  Trimestral      2025-04-02      XLSX, CSV, PDF      
+4    INEC - Producto interno bruto a precios de comprador e  Anual           2025-04-02      XLSX, CSV, PDF      
+5    INEC - Producto Interno Bruto Trimestral en la Repúbli  Trimestral      2025-09-17      XLSX, CSV, PDF      
+6    INEC - Producto Interno Bruto A Precios De Comprador E  Anual           2021-03-03      XLSX, CSV, PDF      
+7    INEC - Producto Interno Bruto trimestral en la Repúbli  Trimestral      2026-03-27      XLSX, CSV, PDF      
+8    INEC - Producto Interno Bruto Trimestral en la Repúbli  Trimestral      2025-04-02      XLSX, CSV, PDF      
+9    INEC - Producto Interno Bruto Brimestral en la Repúbli  Trimestral      2025-09-17      XLSX, CSV, PDF      
+10   INEC - Producto interno bruto a precios de comprador e  Anual           2025-04-02      XLSX, CSV, PDF      
+11   INEC - PIB Constante Años 2007 A 2019                   Anual           2020-12-23      XLSX, CSV, PDF      
+12   INEC - PIB a precios corrientes años 2007 a 2020        Anual           2022-01-26      XLSX, CSV, PDF      
+13   INEC - Producto Interno Bruto Trimestral En La Repúbli  Trimestral      2020-10-07      XLSX, CSV, PDF      
+14   INEC - Producto Interno Bruto Trimestral en la Repúbli  Trimestral      2026-03-27      XLSX, CSV, PDF      
+15   INEC - Producto Interno Bruto A Precios De Comprador E  Anual           2021-03-03      XLSX, CSV, PDF      
+16   INEC - PIB A Precios Corrientes Años 2007 A 2019        Anual           2020-12-23      XLSX, CSV, PDF      
+17   INEC - PIB constante años 2007 a 2020                   Anual           2023-03-30      XLSX, CSV, PDF      
+18   INEC - PIB Trimestral Corriente, 2007 a 2019, tercer t  Trimestral      2020-12-23      XLSX, CSV, PDF      
+19   INEC - Producto Interno Bruto A Precios De Comprador E  Anual           2020-10-07      XLSX, CSV, PDF      
+20   INEC - PIB Trimestral 2007 a 2019, tercer trimestre de  Trimestral      2020-12-22      CSV, XLSX, PDF      
+21   INEC - Producto Interno Bruto Trimestral En La Repúbli  Trimestral      2020-10-07      XLSX, CSV, PDF      
+22   INEC - PRODUCTO INTERNO BRUTO TRIMESTRAL EN LA REPÚBLI  Trimestral      2022-11-01      XLS, CSV, PDF       
+23   PIB trimestral 2007 a 2020, primer, segundo y tercer t  Trimestral      2022-01-26      XLSX, CSV, PDF      
+24   INEC - PIB trimestral corriente, 2007 a 2020, primer,   Trimestral      2022-01-26      XLSX, CSV, PDF      
+25   INEC - PIB trimestral corriente, 2018 a 2024 y primer   Trimestral      2025-06-27      XLSX, CSV, PDF      
+26   INEC - Producto interno bruto trimestral en la repúbli  Trimestral      2025-12-22      XLSX, CSV, PDF      
+27   Producto Interno Bruto Trimestral En La República A Pr  Trimestral      2021-03-03      XLSX, CSV, PDF      
+28   INEC - PIB trimestral 2018 a 2024, primer, segundo y t  Trimestral      2026-03-05      XLSX, PDF, CSV      
+29   INEC - PIB trimestral corriente, 2018 a 2024, primer,   Trimestral      2026-03-05      XLSX, PDF, CSV      
+30   Índice de la Actividad Económica (IMAE)                 Mensual         2020-10-01      XLSX, CSV, PDF      
+31   Índice Mensual de la Actividad Económica Agosto 2020    No especificada 2020-11-27      XLS, CSV, PDF       
+32   INEC - Índice Mensual de la Actividad Económica - Ener  No especificada 2021-03-24      XLSX, CSV, PDF      
+33   INEC - Índice Mensual de la Actividad Económica, Febre  No especificada 2025-04-21      XLS, CSV, PDF       
+34   INEC - índice Mensual de la Actividad Económica         No especificada 2020-12-17      XLS, CSV, PDF       
+35   INEC - Índice Mensual de Actividad Económica            No especificada 2023-04-27      XLS, CSV, PDF       
+36   INEC - Índice Mensual de la Actividad Económica - Octu  No especificada 2020-12-23      XLSX, CSV, PDF      
+37   INEC - Índice Mensual de la Actividad Económica Agosto  No especificada 2021-12-17      XLS, CSV, PDF       
+38   INEC - Índice Mensual de la Actividad Económica Julio   No especificada 2021-12-17      XLS, CSV, PDF       
+39   INEC - Índice Mensual de la Actividad Económica - Juni  No especificada 2021-09-10      XLS, CSV, PDF       
+40   INEC - Índice Mensual de la Actividad Económica         No especificada 2023-07-28      XLS, CSV, PDF       
+41   INEC - Índice Mensual de la Actividad Económica         No especificada 2023-05-25      XLS, CSV, PDF       
+42   INEC - Índice Mensual de la Actividad Económica         No especificada 2023-08-28      XLS, CSV, PDF       
+43   INEC - Índice Mensual de la Actividad Económica Mayo d  No especificada 2021-07-23      XLS, CSV, PDF       
+44   INEC - Índice Mensual de la Actividad Económica, mayo   No especificada 2025-07-25      XLS, CSV, PDF       
+45   INEC - Índice Mensual de la Actividad Económica agosto  No especificada 2025-10-21      PDF, XLS, CSV       
+46   INEC - Índice Mensual de la Actividad Económica Junio   No especificada 2025-08-29      XLS, CSV, PDF       
+47   INEC - Índice Mensual de la Actividad Económica - Ener  No especificada 2026-03-27      XLS, CSV, PDF       
+48   INEC - índice Mensual de la Actividad Económica - Novi  No especificada 2021-01-25      XLS, CSV, PDF       
+49   INEC - índice Mensual de la Actividad Económica Abril   No especificada 2021-07-12      XLS, CSV, PDF       
+50   INEC - Índice Mensual de la Actividad Económica Abril   No especificada 2025-06-19      XLS, CSV, PDF       
+51   Índice Mensual de la Actividad Económica - Agosto 2022  No especificada 2022-11-01      XLS, CSV, PDF       
+52   INEC - Índice Mensual de la Actividad Económica Marzo   No especificada 2021-06-07      XLS, CSV, PDF       
+53   Índice de precios al consumidor, según grupos de artíc  No especificada 2020-10-02      XLSX, CSV, PDF      
+54   Resumen De La Balanza De Pagos De Panamá, Según Partid  No especificada 2020-09-30      XLSX, CSV, PDF      
+55   INEC - Resumen de la balanza de pagos según partida y   No especificada 2021-01-06      XLSX, CSV, PDF      
+56   INEC-Resumen de la balanza de pagos según partida y se  No especificada 2021-05-25      XLSX, CSV, PDF      
+57   INEC - Resumen de la balanza de pagos según partida y   No especificada 2022-08-08      XLSX, CSV, PDF      
+58   INEC-Resumen de la balanza de pagos según partida y se  No especificada 2021-02-25      XLSX, CSV, PDF      
+59   INEC-Resumen de los componentes normalizados de la Bal  No especificada 2021-01-06      XLSX, CSV, PDF      
+60   INEC - Resumen de la balanza de pagos de Panamá, según  No especificada 2025-11-25      XLSX, CSV, PDF      
+61   INEC-Resumen de la balanza de pagos de Panamá, según p  No especificada 2023-07-28      XLSX, CSV, PDF      
+62   INEC-Resumen de la balanza de pagos de Panamá, según p  No especificada 2021-09-10      XLSX, CSV, PDF      
+63   INEC - Resumen de la balanza de pagos de Panamá, según  No especificada 2022-11-02      XLS, CSV, PDF       
+64   INEC - Resumen de la balanza de pagos de Panamá, según  No especificada 2023-03-14      XLSX, CSV, PDF      
+65   INEC - Resumen de la balanza de pagos de Panamá, según  No especificada 2022-08-08      XLSX, CSV, PDF      
+66   INEC-Resumen de la balanza de pagos de Panamá, según p  No especificada 2022-01-06      CSV, XLSX, PDF      
+67   INEC - Resumen de la balanza de pagos de Panamá, según  No especificada 2025-11-24      XLSX, CSV, PDF      
+68   INEC-Resumen de los componentes normalizados de la Bal  No especificada 2021-02-25      XLSX, CSV, PDF      
+69   INEC-Resumen de los componentes normalizados de la Bal  No especificada 2021-05-25      XLSX, CSV, PDF      
+70   INEC - Resumen de los componentes normalizados de la B  No especificada 2022-08-08      XLSX, CSV, PDF      
+71   Resumen De Los Componentes Normalizados De La Balanza   No especificada 2020-09-30      XLSX, CSV, PDF      
+72   INEC - Resumen de los componentes normalizados de la B  No especificada 2025-11-24      XLS, CSV, PDF       
+73   INEC - Resumen de los componentes normalizados de la B  No especificada 2025-11-25      XLSX, CSV, PDF      
+74   INEC - Resumen de los componentes normalizados de la B  No especificada 2023-07-28      XLSX, CSV, PDF      
+75   INEC-Resumen de los componentes normalizados de la Bal  No especificada 2022-01-06      CSV, XLSX, PDF      
+76   INEC - Resumen de los componentes normalizados de la B  No especificada 2023-03-14      XLSX, CSV, PDF      
+77   INEC - Resumen de los componentes normalizados de la B  No especificada 2022-08-08      XLSX, CSV, PDF      
+78   INEC-Resumen de los componentes normalizados de la Bal  No especificada 2021-09-10      XLSX, CSV, PDF      
+79   INEC - Resumen de los componentes normalizados de la B  No especificada 2022-11-02      XLSX, CSV, PDF      
+80   INEC - Valor CIF de las importaciones de bienes acumul  No especificada 2022-11-01      XLS, CSV, PDF       
+81   Valor CIF de las importaciones de bienes acumulado Sep  No especificada 2020-11-26      XLS, CSV, PDF       
+82   INEC - Peso neto de las importaciones de bienes acumul  No especificada 2025-11-26      XLSX, CSV, PDF      
+83   INEC - Valor CIF de las importaciones de bienes acumul  No especificada 2025-12-22      CSV, XLSX, PDF      
+84   INEC - Peso neto de las importaciones de bienes acumul  No especificada 2025-12-22      CSV, XLSX, PDF      
+85   INEC - Valor CIF de las importaciones de bienes acumul  No especificada 2025-11-26      XLSX, CSV, PDF      
+86   INEC - Peso neto de las importaciones de bienes acumul  No especificada 2025-10-20      PDF, XLS, CSV       
+87   INEC - Valor CIF de las importaciones de bienes acumul  No especificada 2025-10-20      PDF, XLS, CSV       
+88   INEC - Valor CIF de las importaciones de bienes acumul  No especificada 2025-09-16      XLS, CSV, PDF       
+89   INEC - Peso neto de las importaciones de bienes acumul  No especificada 2025-09-16      XLS, CSV, PDF       
+90   INEC - Valor CIF de las importaciones de bienes acumul  No especificada 2025-07-25      XLS, CSV, PDF       
+91   INEC -  Peso neto de las importaciones de bienes acumu  No especificada 2025-07-25      XLS, CSV, PDF       
+92   INEC - Peso neto de las importaciones de bienes acumul  No especificada 2025-05-26      XLS, CSV, PDF       
+93   INEC - Valor CIF de las importaciones de bienes acumul  No especificada 2025-06-19      XLS, CSV, PDF       
+94   INEC - Peso neto de las importaciones de bienes acumul  No especificada 2025-06-19      XLS, CSV, PDF       
+95   INEC - Valor CIF de las importaciones de bienes acumul  No especificada 2025-05-26      XLS, CSV, PDF       
+96   INEC - Valor CIF de las importaciones de bienes acumul  No especificada 2025-04-16      XLS, CSV, PDF       
+97   INEC - Peso neto de las importaciones de bienes acumul  No especificada 2025-08-29      XLS, CSV, PDF       
+98   INEC - Peso Neto de las Importaciones de Bienes Acumul  No especificada 2025-04-16      XLS, CSV, PDF       
+99   INEC - Valor CIF de las importaciones de bienes acumul  No especificada 2021-04-19      XLS, CSV, PDF       
+100  INEC - Valor CIF de las importaciones de bienes acumul  No especificada 2021-01-07      XLS, CSV, PDF       
+101  INEC - Peso neto de las importaciones de bienes acumul  No especificada 2021-04-19      XLS, CSV, PDF       
+102  INEC - Peso neto de las importaciones de bienes acumul  No especificada 2022-11-01      XLS, CSV, PDF       
+103  INEC - Peso neto de las importaciones de bienes acumul  No especificada 2021-02-24      XLS, CSV, PDF       
+104  INEC - Valor (En Balboas) de la exportación desde Pana  No especificada 2020-10-07      XLSX, CSV, PDF      
+105  INEC - Peso neto de las importaciones de bienes acumul  No especificada 2023-09-28      XLS, CSV, PDF       
+106  INEC - Valor CIF de las importaciones de bienes acumul  No especificada 2023-07-19      XLS, CSV, PDF       
+107  INEC - Peso neto de las importaciones de bienes acumul  No especificada 2023-04-27      XLS, CSV, PDF       
+108  INEC - Valor CIF de las importaciones de bienes acumul  No especificada 2023-09-28      XLS, CSV, PDF       
+
+──────────────────────────────────────────────────────────────────────
+ORGANIZACIÓN: Ministerio de Económia y Finanzas (MEF)  (6 datasets)
+──────────────────────────────────────────────────────────────────────
+#    Dataset                                                 Periodo         Actualizado     Formatos            
+──── ─────────────────────────────────────────────────────── ─────────────── ─────────────── ────────────────────
+1    MEF - Deuda Pública 2020                                Mensual         2020-08-18      PDF, XLSX, CSV      
+2    MEF - Deudas Públicas 2025                              Mensual         2025-05-02      PDF, XLSX, CSV      
+3    MEF - Deudas Públicas 2024                              Mensual         2024-07-18      PDF, XLSX, CSV      
+4    MEF - Deudas Públicas 2023                              Mensual         2023-03-28      PDF, XLSX, CSV      
+5    MEF - Deuda Pública 2022                                Mensual         2022-03-14      PDF, XLSX, CSV      
+6    MEF - Deuda Pública 2021                                Mensual         2021-02-24      PDF, XLSX, CSV      
+
+──────────────────────────────────────────────────────────────────────
+ORGANIZACIÓN: Ministerio de Gobierno  (2 datasets)
+──────────────────────────────────────────────────────────────────────
+#    Dataset                                                 Periodo         Actualizado     Formatos            
+──── ─────────────────────────────────────────────────────── ─────────────── ─────────────── ────────────────────
+1    MINGOB - Orden de Compras Refrendadas Junio 2019        No especificada 2019-07-10      CSV, PDF, XLSX      
+2    MINGOB - Orden de Compras Refrendadas 2022              No especificada 2022-12-22      CSV, XLS, PDF, XLSX 
+
+──────────────────────────────────────────────────────────────────────
+ORGANIZACIÓN: Secretaría Nacional de Ciencia, Tecnología e Innovación - SENACYT  (3 datasets)
+──────────────────────────────────────────────────────────────────────
+#    Dataset                                                 Periodo         Actualizado     Formatos            
+──── ─────────────────────────────────────────────────────── ─────────────── ─────────────── ────────────────────
+1    SENACYT - Ejecución Presupuestaria 2018                 No especificada 2018-04-18      PDF, XLSX, CSV      
+2    SENACYT - Ejecución Presupuestaria 2020                 No especificada 2020-09-09      PDF, XLSX, CSV      
+3    SENACYT - Ejecución Presupuestaria 2019                 No especificada 2020-01-14      PDF, XLSX, CSV      
+
+──────────────────────────────────────────────────────────────────────
+ORGANIZACIÓN: Sistema Estatal de Radio y Televisión  (4 datasets)
+──────────────────────────────────────────────────────────────────────
+#    Dataset                                                 Periodo         Actualizado     Formatos            
+──── ─────────────────────────────────────────────────────── ─────────────── ─────────────── ────────────────────
+1    SERTV - Estructura y ejecución presupuestaria 2023      No especificada 2024-02-07      PDF, XLSX, CSV      
+2    SERTV - Estructura y ejecución presupuestaria 2026      No especificada 2026-06-09      PDF, XLSX, CSV      
+3    SERTV - Estructura y ejecución presupuestaria 2025      No especificada 2025-12-12      PDF, XLSX, CSV, XLS 
+4    SERTV - Estructura y ejecución presupuestaria 2024      No especificada 2025-01-13      PDF, XLSX, CSV      
+
+──────────────────────────────────────────────────────────────────────
+ORGANIZACIÓN: Superintendencia de Bancos de Panamá  (4 datasets)
+──────────────────────────────────────────────────────────────────────
+#    Dataset                                                 Periodo         Actualizado     Formatos            
+──── ─────────────────────────────────────────────────────── ─────────────── ─────────────── ────────────────────
+1    SBP - Pagos en concepto de Viáticos 2025                No especificada 2026-01-12      XLSX, CSV, PDF      
+2    SBP - Pagos en concepto de Viáticos 2023                No especificada 2024-01-11      XLSX, CSV, PDF      
+3    SBP - Pagos en concepto de Viáticos 2022                No especificada 2023-01-05      XLSX, PDF, CSV      
+4    SBP - Pagos en concepto de Viáticos 2024                No especificada 2025-01-07      XLSX, CSV, PDF      
+
+──────────────────────────────────────────────────────────────────────
+ORGANIZACIÓN: Tribunal Administrativo Tributario  (5 datasets)
+──────────────────────────────────────────────────────────────────────
+#    Dataset                                                 Periodo         Actualizado     Formatos            
+──── ─────────────────────────────────────────────────────── ─────────────── ─────────────── ────────────────────
+1    TAT - Ejecución Presupuestaria 2022                     No especificada 2022-03-03      XLSX, PDF, CSV      
+2    TAT - Ejecución Presupuestaria 2021                     No especificada 2022-01-05      XLSX, PDF, CSV      
+3    TAT - Planilla del Tribunal Administrativo Tributario   No especificada 2022-04-04      XLSX, PDF, CSV      
+4    TAT - Planilla del Tribunal Administrativo Tributario   No especificada 2022-01-06      PDF, CSV, XLSX      
+5    TAT - Planilla del Tribunal Administrativo Tributario   No especificada 2023-01-04      CSV, PDF, XLSX      
+
+──────────────────────────────────────────────────────────────────────
+ORGANIZACIÓN: Universidad Maritima Internacional de Panamá - UMIP  (2 datasets)
+──────────────────────────────────────────────────────────────────────
+#    Dataset                                                 Periodo         Actualizado     Formatos            
+──── ─────────────────────────────────────────────────────── ─────────────── ─────────────── ────────────────────
+1    UMIP - Ejecución Presupuestaria 2020                    No especificada 2020-02-13      PDF, XLSX, CSV      
+2    UMIP - Ejecución Presupuestaria 2019                    No especificada 2019-03-01      PDF, XLSX, CSV      
+
+
+
+============================================================
+DATOS MÁS RELEVANTES PARA EL PROYECTO
+============================================================
+
+--- PIB (30 datasets) ---
+  - INEC - Producto Interno Bruto a precios de comprad
+    Org: Instituto Nacional de Estadística y Censo | Periodo: Anual | Último: 2026-03-27 | Formatos: XLSX, CSV, PDF
+  - INEC - Producto Interno Bruto a precios de comprad
+    Org: Instituto Nacional de Estadística y Censo | Periodo: Anual | Último: 2026-03-27 | Formatos: XLSX, CSV, PDF
+  - INEC - Producto interno bruto trimestral en la Rep
+    Org: Instituto Nacional de Estadística y Censo | Periodo: Trimestral | Último: 2025-04-02 | Formatos: XLSX, CSV, PDF
+  - INEC - Producto interno bruto a precios de comprad
+    Org: Instituto Nacional de Estadística y Censo | Periodo: Anual | Último: 2025-04-02 | Formatos: XLSX, CSV, PDF
+  - INEC - Producto Interno Bruto Trimestral en la Rep
+    Org: Instituto Nacional de Estadística y Censo | Periodo: Trimestral | Último: 2025-09-17 | Formatos: XLSX, CSV, PDF
+  - INEC - Producto Interno Bruto A Precios De Comprad
+    Org: Instituto Nacional de Estadística y Censo | Periodo: Anual | Último: 2021-03-03 | Formatos: XLSX, CSV, PDF
+  - INEC - Producto Interno Bruto trimestral en la Rep
+    Org: Instituto Nacional de Estadística y Censo | Periodo: Trimestral | Último: 2026-03-27 | Formatos: XLSX, CSV, PDF
+  - INEC - Producto Interno Bruto Trimestral en la Rep
+    Org: Instituto Nacional de Estadística y Censo | Periodo: Trimestral | Último: 2025-04-02 | Formatos: XLSX, CSV, PDF
+  - INEC - Producto Interno Bruto Brimestral en la Rep
+    Org: Instituto Nacional de Estadística y Censo | Periodo: Trimestral | Último: 2025-09-17 | Formatos: XLSX, CSV, PDF
+  - INEC - Producto interno bruto a precios de comprad
+    Org: Instituto Nacional de Estadística y Censo | Periodo: Anual | Último: 2025-04-02 | Formatos: XLSX, CSV, PDF
+  - INEC - PIB Constante Años 2007 A 2019
+    Org: Instituto Nacional de Estadística y Censo | Periodo: Anual | Último: 2020-12-23 | Formatos: XLSX, CSV, PDF
+  - INEC - PIB a precios corrientes años 2007 a 2020
+    Org: Instituto Nacional de Estadística y Censo | Periodo: Anual | Último: 2022-01-26 | Formatos: XLSX, CSV, PDF
+  - INEC - Producto Interno Bruto Trimestral En La Rep
+    Org: Instituto Nacional de Estadística y Censo | Periodo: Trimestral | Último: 2020-10-07 | Formatos: XLSX, CSV, PDF
+  - INEC - Producto Interno Bruto Trimestral en la Rep
+    Org: Instituto Nacional de Estadística y Censo | Periodo: Trimestral | Último: 2026-03-27 | Formatos: XLSX, CSV, PDF
+  - INEC - Producto Interno Bruto A Precios De Comprad
+    Org: Instituto Nacional de Estadística y Censo | Periodo: Anual | Último: 2021-03-03 | Formatos: XLSX, CSV, PDF
+  - INEC - PIB A Precios Corrientes Años 2007 A 2019
+    Org: Instituto Nacional de Estadística y Censo | Periodo: Anual | Último: 2020-12-23 | Formatos: XLSX, CSV, PDF
+  - INEC - PIB constante años 2007 a 2020
+    Org: Instituto Nacional de Estadística y Censo | Periodo: Anual | Último: 2023-03-30 | Formatos: XLSX, CSV, PDF
+  - INEC - PIB Trimestral Corriente, 2007 a 2019, terc
+    Org: Instituto Nacional de Estadística y Censo | Periodo: Trimestral | Último: 2020-12-23 | Formatos: XLSX, CSV, PDF
+  - INEC - Producto Interno Bruto A Precios De Comprad
+    Org: Instituto Nacional de Estadística y Censo | Periodo: Anual | Último: 2020-10-07 | Formatos: XLSX, CSV, PDF
+  - INEC - PIB Trimestral 2007 a 2019, tercer trimestr
+    Org: Instituto Nacional de Estadística y Censo | Periodo: Trimestral | Último: 2020-12-22 | Formatos: CSV, XLSX, PDF
+  - INEC - Producto Interno Bruto Trimestral En La Rep
+    Org: Instituto Nacional de Estadística y Censo | Periodo: Trimestral | Último: 2020-10-07 | Formatos: XLSX, CSV, PDF
+  - INEC - PRODUCTO INTERNO BRUTO TRIMESTRAL EN LA REP
+    Org: Instituto Nacional de Estadística y Censo | Periodo: Trimestral | Último: 2022-11-01 | Formatos: XLS, CSV, PDF
+  - PIB trimestral 2007 a 2020, primer, segundo y terc
+    Org: Instituto Nacional de Estadística y Censo | Periodo: Trimestral | Último: 2022-01-26 | Formatos: XLSX, CSV, PDF
+  - INEC - PIB trimestral 2018 a 2024 y primer trimest
+    Org: Contraloria General de la República | Periodo: Trimestral | Último: 2025-06-27 | Formatos: XLSX, CSV, PDF
+  - INEC - PIB trimestral corriente, 2007 a 2020, prim
+    Org: Instituto Nacional de Estadística y Censo | Periodo: Trimestral | Último: 2022-01-26 | Formatos: XLSX, CSV, PDF
+  - INEC - PIB trimestral corriente, 2018 a 2024 y pri
+    Org: Instituto Nacional de Estadística y Censo | Periodo: Trimestral | Último: 2025-06-27 | Formatos: XLSX, CSV, PDF
+  - INEC - Producto interno bruto trimestral en la rep
+    Org: Instituto Nacional de Estadística y Censo | Periodo: Trimestral | Último: 2025-12-22 | Formatos: XLSX, CSV, PDF
+  - Producto Interno Bruto Trimestral En La República 
+    Org: Instituto Nacional de Estadística y Censo | Periodo: Trimestral | Último: 2021-03-03 | Formatos: XLSX, CSV, PDF
+  - INEC - PIB trimestral 2018 a 2024, primer, segundo
+    Org: Instituto Nacional de Estadística y Censo | Periodo: Trimestral | Último: 2026-03-05 | Formatos: XLSX, PDF, CSV
+  - INEC - PIB trimestral corriente, 2018 a 2024, prim
+    Org: Instituto Nacional de Estadística y Censo | Periodo: Trimestral | Último: 2026-03-05 | Formatos: XLSX, PDF, CSV
+
+--- IMAE (1 datasets) ---
+  - Índice de la Actividad Económica (IMAE)
+    Org: Instituto Nacional de Estadística y Censo | Periodo: Mensual | Último: 2020-10-01 | Formatos: XLSX, CSV, PDF
+
+--- IPC/Inflacion (13 datasets) ---
+  - INEC - Producto interno bruto trimestral en la Rep
+    Org: Instituto Nacional de Estadística y Censo | Periodo: Trimestral | Último: 2025-04-02 | Formatos: XLSX, CSV, PDF
+  - INEC - Producto Interno Bruto Trimestral en la Rep
+    Org: Instituto Nacional de Estadística y Censo | Periodo: Trimestral | Último: 2025-04-02 | Formatos: XLSX, CSV, PDF
+  - INEC - PRODUCTO INTERNO BRUTO TRIMESTRAL EN LA REP
+    Org: Instituto Nacional de Estadística y Censo | Periodo: Trimestral | Último: 2022-11-01 | Formatos: XLS, CSV, PDF
+  - CSS – Inscripciones de Empresas y monto de salario
+    Org: Caja de Seguro Social | Periodo: No especificada | Último: 2022-01-24 | Formatos: XLSX, PDF, CSV
+  - CSS – Inscripciones Empresas y monto salarios de e
+    Org: Caja de Seguro Social | Periodo: No especificada | Último: 2022-01-24 | Formatos: XLSX, PDF, CSV
+  - CSS – Inscripción de Empresas con sus salarios de 
+    Org: Caja de Seguro Social | Periodo: No especificada | Último: 2022-09-01 | Formatos: XLSX, PDF, CSV
+  - CSS – Depto Inscripción - Coord. Adm. a nivel Naci
+    Org: Caja de Seguro Social | Periodo: No especificada | Último: 2023-12-04 | Formatos: XLSX, PDF, CSV
+  - CSS – Depto. Inscripción - Coordinación Administra
+    Org: Caja de Seguro Social | Periodo: No especificada | Último: 2024-04-17 | Formatos: XLSX, PDF, CSV
+  - CSS – Depto. Inscripción - Coord. Adm Coclé-Panamá
+    Org: Caja de Seguro Social | Periodo: No especificada | Último: 2023-05-30 | Formatos: XLSX, PDF, CSV
+  - CSS – Depto. Inscripción - Coordinación Administra
+    Org: Caja de Seguro Social | Periodo: No especificada | Último: 2024-11-15 | Formatos: XLSX, PDF, CSV
+  - CSS – Depto. Inscripción - Coordinación Administra
+    Org: Caja de Seguro Social | Periodo: No especificada | Último: 2024-09-17 | Formatos: XLSX, PDF, CSV
+  - CSS – Depto. Inscripción a nivel nacional - IV Tri
+    Org: Caja de Seguro Social | Periodo: No especificada | Último: 2024-01-26 | Formatos: XLSX, PDF, CSV
+  - CSS – Depto Inscripción - Agencias Administrativas
+    Org: Caja de Seguro Social | Periodo: No especificada | Último: 2025-05-20 | Formatos: XLSX, PDF, CSV
+
+--- Empleo (0 datasets) ---
+
+--- Balanza Pagos (26 datasets) ---
+  - Resumen De La Balanza De Pagos De Panamá, Según Pa
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2020-09-30 | Formatos: XLSX, CSV, PDF
+  - INEC - Resumen de la balanza de pagos según partid
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2021-01-06 | Formatos: XLSX, CSV, PDF
+  - INEC-Resumen de la balanza de pagos según partida 
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2021-05-25 | Formatos: XLSX, CSV, PDF
+  - INEC - Resumen de la balanza de pagos según partid
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2022-08-08 | Formatos: XLSX, CSV, PDF
+  - INEC-Resumen de la balanza de pagos según partida 
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2021-02-25 | Formatos: XLSX, CSV, PDF
+  - INEC-Resumen de los componentes normalizados de la
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2021-01-06 | Formatos: XLSX, CSV, PDF
+  - INEC - Resumen de la balanza de pagos de Panamá, s
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2025-11-25 | Formatos: XLSX, CSV, PDF
+  - INEC-Resumen de la balanza de pagos de Panamá, seg
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2023-07-28 | Formatos: XLSX, CSV, PDF
+  - INEC-Resumen de la balanza de pagos de Panamá, seg
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2021-09-10 | Formatos: XLSX, CSV, PDF
+  - INEC - Resumen de la balanza de pagos de Panamá, s
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2022-11-02 | Formatos: XLS, CSV, PDF
+  - INEC - Resumen de la balanza de pagos de Panamá, s
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2023-03-14 | Formatos: XLSX, CSV, PDF
+  - INEC - Resumen de la balanza de pagos de Panamá, s
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2022-08-08 | Formatos: XLSX, CSV, PDF
+  - INEC-Resumen de la balanza de pagos de Panamá, seg
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2022-01-06 | Formatos: CSV, XLSX, PDF
+  - INEC - Resumen de la balanza de pagos de Panamá, s
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2025-11-24 | Formatos: XLSX, CSV, PDF
+  - INEC-Resumen de los componentes normalizados de la
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2021-02-25 | Formatos: XLSX, CSV, PDF
+  - INEC-Resumen de los componentes normalizados de la
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2021-05-25 | Formatos: XLSX, CSV, PDF
+  - INEC - Resumen de los componentes normalizados de 
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2022-08-08 | Formatos: XLSX, CSV, PDF
+  - Resumen De Los Componentes Normalizados De La Bala
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2020-09-30 | Formatos: XLSX, CSV, PDF
+  - INEC - Resumen de los componentes normalizados de 
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2025-11-24 | Formatos: XLS, CSV, PDF
+  - INEC - Resumen de los componentes normalizados de 
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2025-11-25 | Formatos: XLSX, CSV, PDF
+  - INEC - Resumen de los componentes normalizados de 
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2023-07-28 | Formatos: XLSX, CSV, PDF
+  - INEC-Resumen de los componentes normalizados de la
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2022-01-06 | Formatos: CSV, XLSX, PDF
+  - INEC - Resumen de los componentes normalizados de 
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2023-03-14 | Formatos: XLSX, CSV, PDF
+  - INEC - Resumen de los componentes normalizados de 
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2022-08-08 | Formatos: XLSX, CSV, PDF
+  - INEC-Resumen de los componentes normalizados de la
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2021-09-10 | Formatos: XLSX, CSV, PDF
+  - INEC - Resumen de los componentes normalizados de 
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2022-11-02 | Formatos: XLSX, CSV, PDF
+
+--- Comercio (30 datasets) ---
+  - INEC - Valor CIF de las importaciones de bienes ac
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2022-11-01 | Formatos: XLS, CSV, PDF
+  - Valor CIF de las importaciones de bienes acumulado
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2020-11-26 | Formatos: XLS, CSV, PDF
+  - INEC - Peso neto de las importaciones de bienes ac
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2025-11-26 | Formatos: XLSX, CSV, PDF
+  - INEC - Valor CIF de las importaciones de bienes ac
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2025-12-22 | Formatos: CSV, XLSX, PDF
+  - INEC - Peso neto de las importaciones de bienes ac
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2025-12-22 | Formatos: CSV, XLSX, PDF
+  - INEC - Valor CIF de las importaciones de bienes ac
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2025-11-26 | Formatos: XLSX, CSV, PDF
+  - INEC - Peso neto de las importaciones de bienes ac
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2025-10-20 | Formatos: PDF, XLS, CSV
+  - INEC - Valor CIF de las importaciones de bienes ac
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2025-10-20 | Formatos: PDF, XLS, CSV
+  - INEC - Valor CIF de las importaciones de bienes ac
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2025-09-16 | Formatos: XLS, CSV, PDF
+  - INEC - Peso neto de las importaciones de bienes ac
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2025-09-16 | Formatos: XLS, CSV, PDF
+  - INEC - Valor CIF de las importaciones de bienes ac
+    Org: Contraloria General de la República | Periodo: No especificada | Último: 2025-08-29 | Formatos: XLS, CSV, PDF
+  - INEC - Valor CIF de las importaciones de bienes ac
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2025-07-25 | Formatos: XLS, CSV, PDF
+  - INEC -  Peso neto de las importaciones de bienes a
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2025-07-25 | Formatos: XLS, CSV, PDF
+  - INEC - Peso neto de las importaciones de bienes ac
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2025-05-26 | Formatos: XLS, CSV, PDF
+  - INEC - Valor CIF de las importaciones de bienes ac
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2025-06-19 | Formatos: XLS, CSV, PDF
+  - INEC - Peso neto de las importaciones de bienes ac
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2025-06-19 | Formatos: XLS, CSV, PDF
+  - INEC - Valor CIF de las importaciones de bienes ac
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2025-05-26 | Formatos: XLS, CSV, PDF
+  - INEC - Valor CIF de las importaciones de bienes ac
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2025-04-16 | Formatos: XLS, CSV, PDF
+  - INEC - Peso neto de las importaciones de bienes ac
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2025-08-29 | Formatos: XLS, CSV, PDF
+  - INEC - Peso Neto de las Importaciones de Bienes Ac
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2025-04-16 | Formatos: XLS, CSV, PDF
+  - INEC - Valor CIF de las importaciones de bienes ac
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2021-04-19 | Formatos: XLS, CSV, PDF
+  - INEC - Valor CIF de las importaciones de bienes ac
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2021-01-07 | Formatos: XLS, CSV, PDF
+  - INEC - Peso neto de las importaciones de bienes ac
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2021-04-19 | Formatos: XLS, CSV, PDF
+  - INEC - Peso neto de las importaciones de bienes ac
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2022-11-01 | Formatos: XLS, CSV, PDF
+  - INEC - Peso neto de las importaciones de bienes ac
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2021-02-24 | Formatos: XLS, CSV, PDF
+  - INEC - Valor (En Balboas) de la exportación desde 
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2020-10-07 | Formatos: XLSX, CSV, PDF
+  - INEC - Peso neto de las importaciones de bienes ac
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2023-09-28 | Formatos: XLS, CSV, PDF
+  - INEC - Valor CIF de las importaciones de bienes ac
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2023-07-19 | Formatos: XLS, CSV, PDF
+  - INEC - Peso neto de las importaciones de bienes ac
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2023-04-27 | Formatos: XLS, CSV, PDF
+  - INEC - Valor CIF de las importaciones de bienes ac
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2023-09-28 | Formatos: XLS, CSV, PDF
+
+--- Turismo (0 datasets) ---
+
+--- Finanzas (13 datasets) ---
+  - ASEP-Registro Transparente de Reportes de Consulto
+    Org: Autoridad Nacional de los Servicios Públicos  | Periodo: No especificada | Último: 2026-03-16 | Formatos: XLSX, PDF, CSV
+  - MINGOB - Orden de Compras Refrendadas Junio 2019
+    Org: Ministerio de Gobierno | Periodo: No especificada | Último: 2019-07-10 | Formatos: CSV, PDF, XLSX
+  - TAT - Ejecución Presupuestaria 2022
+    Org: Tribunal Administrativo Tributario | Periodo: No especificada | Último: 2022-03-03 | Formatos: XLSX, PDF, CSV
+  - UMIP - Ejecución Presupuestaria 2020
+    Org: Universidad Maritima Internacional de Panamá - UMIP | Periodo: No especificada | Último: 2020-02-13 | Formatos: PDF, XLSX, CSV
+  - UMIP - Ejecución Presupuestaria 2019
+    Org: Universidad Maritima Internacional de Panamá - UMIP | Periodo: No especificada | Último: 2019-03-01 | Formatos: PDF, XLSX, CSV
+  - MINGOB - Orden de Compras Refrendadas 2022
+    Org: Ministerio de Gobierno | Periodo: No especificada | Último: 2022-12-22 | Formatos: CSV, XLS, PDF, XLSX
+  - TAT - Ejecución Presupuestaria 2021
+    Org: Tribunal Administrativo Tributario | Periodo: No especificada | Último: 2022-01-05 | Formatos: XLSX, PDF, CSV
+  - MEF - Deuda Pública 2020
+    Org: Ministerio de Económia y Finanzas (MEF) | Periodo: Mensual | Último: 2020-08-18 | Formatos: PDF, XLSX, CSV
+  - MEF - Deudas Públicas 2025
+    Org: Ministerio de Económia y Finanzas (MEF) | Periodo: Mensual | Último: 2025-05-02 | Formatos: PDF, XLSX, CSV
+  - MEF - Deudas Públicas 2024
+    Org: Ministerio de Económia y Finanzas (MEF) | Periodo: Mensual | Último: 2024-07-18 | Formatos: PDF, XLSX, CSV
+  - MEF - Deudas Públicas 2023
+    Org: Ministerio de Económia y Finanzas (MEF) | Periodo: Mensual | Último: 2023-03-28 | Formatos: PDF, XLSX, CSV
+  - MEF - Deuda Pública 2022
+    Org: Ministerio de Económia y Finanzas (MEF) | Periodo: Mensual | Último: 2022-03-14 | Formatos: PDF, XLSX, CSV
+  - MEF - Deuda Pública 2021
+    Org: Ministerio de Económia y Finanzas (MEF) | Periodo: Mensual | Último: 2021-02-24 | Formatos: PDF, XLSX, CSV
+
+--- Salarios (9 datasets) ---
+  - Resumen De Los Componentes Normalizados De La Bala
+    Org: Instituto Nacional de Estadística y Censo | Periodo: No especificada | Último: 2020-09-30 | Formatos: XLSX, CSV, PDF
+  - ASEP - Ejecución Presupuestaria de Ingresos de Ene
+    Org: Autoridad Nacional de los Servicios Públicos  | Periodo: No especificada | Último: 2021-10-27 | Formatos: XLSX, CSV, PDF
+  - CSS – Investigación de empresas y salarios omitido
+    Org: Caja de Seguro Social | Periodo: No especificada | Último: 2022-01-24 | Formatos: XLSX, PDF, CSV
+  - CSS – Investigación de empresas y salarios omitido
+    Org: Caja de Seguro Social | Periodo: No especificada | Último: 2022-01-24 | Formatos: XLSX, PDF, CSV
+  - CSS – Inscripciones de Empresas y monto de salario
+    Org: Caja de Seguro Social | Periodo: No especificada | Último: 2022-01-24 | Formatos: XLSX, PDF, CSV
+  - CSS – Inscripciones Empresas y monto salarios de e
+    Org: Caja de Seguro Social | Periodo: No especificada | Último: 2022-01-24 | Formatos: XLSX, PDF, CSV
+  - CSS – Investigación de Empresas y Salario Omitidos
+    Org: Caja de Seguro Social | Periodo: No especificada | Último: 2022-09-01 | Formatos: XLSX, PDF, CSV
+  - CSS – Inscripción de Empresas con sus salarios de 
+    Org: Caja de Seguro Social | Periodo: No especificada | Último: 2022-09-01 | Formatos: XLSX, PDF, CSV
+  - CSS – Depto. Investigación Ag Adm de Coclé-Pmá Oes
+    Org: Caja de Seguro Social | Periodo: No especificada | Último: 2023-05-30 | Formatos: XLSX, PDF, CSV
+
+
+--- RECOMENDACIÓN ---
+Indicadores mínimos sugeridos para el proyecto:
+  1. PIB Trimestral (INEC)
+  2. IMAE Mensual (INEC)
+  3. IPC Mensual (INEC)
+  4. Balanza de Pagos / Comercio Exterior
+  5. Turismo (opcional)
+
+Fuentes: INEC + DatosAbiertos CKAN (≥2 fuentes cumplidas)
