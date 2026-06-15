@@ -5,12 +5,14 @@ import numpy as np
 from prophet import Prophet
 from prophet.serialize import model_to_json, model_from_json
 
-MODEL_DIR = "data/models"
+ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+MODEL_DIR = os.path.join(ROOT, "data", "models")
+DATA_DIR = os.path.join(ROOT, "data", "processed")
 os.makedirs(MODEL_DIR, exist_ok=True)
 
 
 def _load_imae():
-    df = pd.read_parquet("data/processed/imae.parquet")
+    df = pd.read_parquet(os.path.join(DATA_DIR, "imae.parquet"))
     df = df[["fecha", "imae_original"]].dropna().copy()
     df = df.rename(columns={"fecha": "ds", "imae_original": "y"})
     df["ds"] = pd.to_datetime(df["ds"])

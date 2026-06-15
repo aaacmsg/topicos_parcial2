@@ -1,0 +1,12 @@
+Shape: (493, 11)
+Columns: ['a¤o', 'mes', 'cat\xa0logo', 'sector', 'saldo', 'desembolsos', 'capital', 'prima', 'intereses', 'comisiones', 'total']
+Dtypes: {'a¤o': dtype('float64'), 'mes': <StringDtype(na_value=nan)>, 'cat\xa0logo': <StringDtype(na_value=nan)>, 'sector': <StringDtype(na_value=nan)>, 'saldo': <StringDtype(na_value=nan)>, 'desembolsos': <StringDtype(na_value=nan)>, 'capital': <StringDtype(na_value=nan)>, 'prima': dtype('float64'), 'intereses': dtype('float64'), 'comisiones': dtype('float64'), 'total': <StringDtype(na_value=nan)>}
+Saldo column: saldo
+Saldo values sample: ['4,074.83', '2,040.33', '2,348.00', '53.61', '143.07', '670.84', '122.96', '1,256.13', '7.88', '634.00']
+Saldo dtype: str
+Non-null saldo: 480/493
+First 10 saldo numeric: [4074.83, 2040.33, 2348.0, 53.61, 143.07, 670.84, 122.96, 1256.13, 7.88, 634.0]
+Last 10 saldo numeric: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+Fecha col: 'a¤o'
+Fecha head: [2025.0, 2025.0, 2025.0, 2025.0, 2025.0, 2025.0, 2025.0, 2025.0, 2025.0, 2025.0]
+Fecha tail: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]

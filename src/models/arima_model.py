@@ -6,12 +6,14 @@ import warnings
 
 warnings.filterwarnings("ignore")
 
-MODEL_DIR = "data/models"
+ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+MODEL_DIR = os.path.join(ROOT, "data", "models")
+DATA_DIR = os.path.join(ROOT, "data", "processed")
 os.makedirs(MODEL_DIR, exist_ok=True)
 
 
 def _load_pib():
-    df = pd.read_parquet("data/processed/pib_constante.parquet")
+    df = pd.read_parquet(os.path.join(DATA_DIR, "pib_constante.parquet"))
     first_col = df.columns[0]
     numeric_cols = df.select_dtypes(include="number").columns
     df["pib_total"] = df[numeric_cols].sum(axis=1)

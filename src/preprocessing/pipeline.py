@@ -8,6 +8,8 @@ import re
 import pandas as pd
 import numpy as np
 
+ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 from src.preprocessing.datasets_prep_config import PREP_CONFIG
 from src.preprocessing.features import apply_features
 
@@ -167,7 +169,8 @@ def clean_dataset(filepath, name):
         df = pd.read_csv(filepath, encoding="utf-8", skiprows=skip_rows, low_memory=False, encoding_errors="replace")
 
     if config.get("reparse_semicolon"):
-        raw_text = open(filepath, encoding="utf-8-sig").read()
+        with open(filepath, encoding="utf-8-sig") as f:
+            raw_text = f.read()
         import io
         df = pd.read_csv(io.StringIO(raw_text), sep=";", skiprows=skip_rows, low_memory=False)
 
@@ -222,8 +225,10 @@ def clean_dataset(filepath, name):
     return df
 
 
-def save_parquet(df, name, path="data/processed"):
+def save_parquet(df, name, path=None):
     """Guarda DataFrame como Parquet."""
+    if path is None:
+        path = os.path.join(ROOT, "data", "processed")
     os.makedirs(path, exist_ok=True)
     filepath = os.path.join(path, f"{name}.parquet")
     df.to_parquet(filepath, index=False)
@@ -236,7 +241,7 @@ def run_pipeline(configs=None):
         configs = PREP_CONFIG
     results = {}
     for name in configs:
-        filepath = os.path.join("data/raw", f"{name}.csv")
+        filepath = os.path.join(ROOT, "data", "raw", f"{name}.csv")
         if not os.path.exists(filepath):
             print(f"  [SKIP] {name}: no existe {filepath}")
             results[name] = None
