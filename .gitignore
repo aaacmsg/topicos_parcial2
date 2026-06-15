@@ -24,6 +24,7 @@ data/raw/*
 # Models (serialized)
 *.pkl
 *.h5
+*.json
 
 # Notebooks output
 .ipynb_checkpoints/
