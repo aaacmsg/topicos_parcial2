@@ -13,10 +13,13 @@ MESES = {
 
 
 def find_date_col(df):
-    """Encuentra columna de fecha en un dataframe. Busca `fecha`, o columna que empiece con `a` y termine con `o` (ano)."""
+    """Encuentra columna de fecha en un dataframe. Prioriza `fecha` exacto, luego año."""
+    for c in df.columns:
+        if c.lower().strip() == "fecha":
+            return c
     for c in df.columns:
         lower = c.lower().strip()
-        if lower == "fecha" or (lower.startswith("a") and lower.endswith("o") and len(lower) <= 4):
+        if lower.startswith("a") and lower.endswith("o") and len(lower) <= 4:
             return c
     return None
 

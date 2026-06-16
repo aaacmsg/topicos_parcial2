@@ -96,12 +96,22 @@ def mostrar(datasets):
 
         forecast = predice_pib(4)
         numeric = df.select_dtypes(include="number")
-        if numeric.shape[1] < 2:
+        activity_cols = [c for c in numeric.columns
+                         if not any(x in c.lower() for x in ["var_", "media_movil", "lag_", "unnamed"])]
+        if len(activity_cols) < 2:
             st.warning("Datos PIB insuficientes")
             return
 
-        pib_trimestres = df.iloc[:, 0].astype(str).str.replace("Q1", "-Q1").str.replace("Q2", "-Q2").str.replace("Q3", "-Q3").str.replace("Q4", "-Q4")
-        pib_valor = numeric.sum(axis=1)
+        raw_dates = df.iloc[:, 0].astype(str)
+        fechas_dt = raw_dates.str.replace("Q1", "-01-01").str.replace("Q2", "-04-01")
+        fechas_dt = fechas_dt.str.replace("Q3", "-07-01").str.replace("Q4", "-10-01")
+        fechas_dt = pd.to_datetime(fechas_dt, errors="coerce")
+
+        pib_valor = numeric[activity_cols].sum(axis=1)
+        orden = fechas_dt.argsort()
+        fechas_dt = fechas_dt.iloc[orden]
+        pib_valor = pib_valor.iloc[orden]
+        pib_trimestres = raw_dates.iloc[orden]
 
         fig = go.Figure()
         fig.add_trace(go.Scatter(
